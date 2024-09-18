@@ -1,4 +1,4 @@
 # DayalSingh
 this is my  first repository
 <br>
-The author is -> <b> Mohmmad  Mazid </b>
+The author is -> <b> Mohmmad  Mazid (MCA) </b>
